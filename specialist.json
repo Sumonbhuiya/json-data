@@ -1,0 +1,538 @@
+[
+    {
+        "id": 1,
+        "name": "Able Frank",
+        "specialist": "Dentist",
+        "fees": "$20 Consultation fee at clinic",
+        "img": "https://i.ibb.co/m9KZ85k/able.png",
+        "from": "India",
+        "about": "BDS, MDS - Paedodontics And Preventive Dentistry Dentist, Implantologist, Pediatric Dentist, Cosmetic/Aesthetic Dentist 23 Years Experience Overall",
+        "address": "Noble Hospital, Magarpatta, Sector A 207, Pune, Maharashtra, india - 502320",
+        "timing": [
+            {
+                "id": 1,
+                "day": "Mon",
+                "first": "11:30 AM - 02:00 PM",
+                "second": "06:00 PM - 07:00 PM"
+            },
+            {
+                "id": 2,
+                "day": "Tue",
+                "first": "11:30 AM - 01:30 PM",
+                "second": "02:30 PM - 03:30 PM"
+            },
+            {
+                "id": 3,
+                "day": "Wed",
+                "first": " 02:00 PM - 04:00 PM",
+                "second": "06:30 PM - 07:00 PM"
+            },
+            {
+                "id": 4,
+                "day": "Thu",
+                "first": "11:30 AM - 02:30 PM",
+                "second": "04:00 PM - 06:00 PM"
+            },
+            {
+                "id": 5,
+                "day": "Fri",
+                "first": "11:30 AM - 02:30 PM",
+                "second": "06:00 PM - 07:00 PM"
+            },
+            {
+                "id": 6,
+                "day": "Sat",
+                "first": "02:00 PM - 04:00 PM",
+                "second": "06:00 PM - 07:00 PM"
+            },
+            {
+                "id": 7,
+                "day": "Sun",
+                "first": "11:00 AM - 01:00 PM",
+                "second": ""
+            }
+        ],
+        "educations": [
+            {
+                "id": 1,
+                "education": "BDS - M.R. Ambedkar Dental College and Hospital, 1999"
+            },
+            {
+                "id": 2,
+                "education": "MDS - M.R. Ambedkar Dental College and Hospital, 2003"
+            },
+            {
+                "id": 3,
+                "education": "Certificate of Oral Implantology - gIDE/UCLA, 2011"
+            }
+        ],
+        "services": [
+            {
+                "id": 1,
+                "name": "Artificial Teeth"
+            },
+            {
+                "id": 2,
+                "name": "Crowns and Bridges Fixing"
+            },
+            {
+                "id": 3,
+                "name": "Tooth Extraction"
+            },
+            {
+                "id": 4,
+                "name": "Dental Fillings"
+            },
+            {
+                "id": 5,
+                "name": "Dental Implant Fixing"
+            },
+            {
+                "id": 6,
+                "name": "Teeth Whitening"
+            },
+            {
+                "id": 7,
+                "name": "BPS Dentures Fixing"
+            },
+            {
+                "id": 8,
+                "name": "Impaction / Impacted Tooth Extraction"
+            },
+            {
+                "id": 9,
+                "name": "zirconium caps"
+            },
+            {
+                "id": 10,
+                "name": "RCT - Root Canal Treatment"
+            }
+        ],
+        "specializations": [
+            {
+                "id": 1,
+                "name": "Dentist"
+            },
+            {
+                "id": 2,
+                "name": "Cosmetic/Aesthetic Dentist"
+            },
+            {
+                "id": 3,
+                "name": "Dental Surgeon"
+            }
+        ],
+        "experiences": [
+            {
+                "id": 1,
+                "experience": "1999 - 2016 Clinical director at Specialist's Dental And Implant Center"
+            },
+            {
+                "id": 2,
+                "experience": "2017 - 2018 Clinical director at Specialist's Dental And Implant Center"
+            },
+            {
+                "id": 3,
+                "experience": "2019 - present Clinical director at Specialist's Dental And Implant Center"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Evea gill",
+        "specialist": "Dentist",
+        "fees": "$20 Consultation fee at clinic",
+        "img": "https://i.ibb.co/PtxsH3D/evea.png",
+        "from": "India",
+        "about": "BDS, MDS - Paedodontics And Preventive Dentistry Dentist, Implantologist, Pediatric Dentist, Cosmetic/Aesthetic Dentist 23 Years Experience Overall",
+        "address": "Noble Hospital, Magarpatta, Sector A 207, Pune, Maharashtra, india - 502320",
+        "timing": [
+            {
+                "id": 1,
+                "day": "Mon",
+                "first": "11:30 AM - 02:00 PM",
+                "second": "06:00 PM - 07:00 PM"
+            },
+            {
+                "id": 2,
+                "day": "Tue",
+                "first": "11:30 AM - 01:30 PM",
+                "second": "02:30 PM - 03:30 PM"
+            },
+            {
+                "id": 3,
+                "day": "Wed",
+                "first": " 02:00 PM - 04:00 PM",
+                "second": "06:30 PM - 07:00 PM"
+            },
+            {
+                "id": 4,
+                "day": "Thu",
+                "first": "11:30 AM - 02:30 PM",
+                "second": "04:00 PM - 06:00 PM"
+            },
+            {
+                "id": 5,
+                "day": "Fri",
+                "first": "11:30 AM - 02:30 PM",
+                "second": "06:00 PM - 07:00 PM"
+            },
+            {
+                "id": 6,
+                "day": "Sat",
+                "first": "02:00 PM - 04:00 PM",
+                "second": "06:00 PM - 07:00 PM"
+            },
+            {
+                "id": 7,
+                "day": "Sun",
+                "first": "11:00 AM - 01:00 PM",
+                "second": ""
+            }
+        ],
+        "educations": [
+            {
+                "id": 1,
+                "education": "BDS - M.R. Ambedkar Dental College and Hospital, 1999"
+            },
+            {
+                "id": 2,
+                "education": "MDS - M.R. Ambedkar Dental College and Hospital, 2003"
+            },
+            {
+                "id": 3,
+                "education": "Certificate of Oral Implantology - gIDE/UCLA, 2011"
+            }
+        ],
+        "services": [
+            {
+                "id": 1,
+                "name": "Artificial Teeth"
+            },
+            {
+                "id": 2,
+                "name": "Crowns and Bridges Fixing"
+            },
+            {
+                "id": 3,
+                "name": "Tooth Extraction"
+            },
+            {
+                "id": 4,
+                "name": "Dental Fillings"
+            },
+            {
+                "id": 5,
+                "name": "Dental Implant Fixing"
+            },
+            {
+                "id": 6,
+                "name": "Teeth Whitening"
+            },
+            {
+                "id": 7,
+                "name": "BPS Dentures Fixing"
+            },
+            {
+                "id": 8,
+                "name": "Impaction / Impacted Tooth Extraction"
+            }
+        ],
+        "specializations": [
+            {
+                "id": 1,
+                "name": "Dentist"
+            },
+            {
+                "id": 2,
+                "name": "Cosmetic/Aesthetic Dentist"
+            },
+            {
+                "id": 3,
+                "name": "Dental Surgeon"
+            }
+        ],
+        "experiences": [
+            {
+                "id": 1,
+                "experience": "1999 - 2016 Clinical director at Specialist's Dental And Implant Center"
+            },
+            {
+                "id": 2,
+                "experience": "2017 - 2018 Clinical director at Specialist's Dental And Implant Center"
+            },
+            {
+                "id": 3,
+                "experience": "2019 - present Clinical director at Specialist's Dental And Implant Center"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Able Frank",
+        "specialist": "Dentist",
+        "fees": "$20 Consultation fee at clinic",
+        "img": "https://i.ibb.co/m9KZ85k/able.png",
+        "from": "India",
+        "about": "BDS, MDS - Paedodontics And Preventive Dentistry Dentist, Implantologist, Pediatric Dentist, Cosmetic/Aesthetic Dentist 23 Years Experience Overall",
+        "address": "Noble Hospital, Magarpatta, Sector A 207, Pune, Maharashtra, india - 502320",
+        "timing": [
+            {
+                "id": 1,
+                "day": "Mon",
+                "first": "11:30 AM - 02:00 PM",
+                "second": "06:00 PM - 07:00 PM"
+            },
+            {
+                "id": 2,
+                "day": "Tue",
+                "first": "11:30 AM - 01:30 PM",
+                "second": "02:30 PM - 03:30 PM"
+            },
+            {
+                "id": 3,
+                "day": "Wed",
+                "first": " 02:00 PM - 04:00 PM",
+                "second": "06:30 PM - 07:00 PM"
+            },
+            {
+                "id": 4,
+                "day": "Thu",
+                "first": "11:30 AM - 02:30 PM",
+                "second": "04:00 PM - 06:00 PM"
+            },
+            {
+                "id": 5,
+                "day": "Fri",
+                "first": "11:30 AM - 02:30 PM",
+                "second": "06:00 PM - 07:00 PM"
+            },
+            {
+                "id": 6,
+                "day": "Sat",
+                "first": "02:00 PM - 04:00 PM",
+                "second": "06:00 PM - 07:00 PM"
+            },
+            {
+                "id": 7,
+                "day": "Sun",
+                "first": "11:00 AM - 01:00 PM",
+                "second": ""
+            }
+        ],
+        "educations": [
+            {
+                "id": 1,
+                "education": "BDS - M.R. Ambedkar Dental College and Hospital, 1999"
+            },
+            {
+                "id": 2,
+                "education": "MDS - M.R. Ambedkar Dental College and Hospital, 2003"
+            },
+            {
+                "id": 3,
+                "education": "Certificate of Oral Implantology - gIDE/UCLA, 2011"
+            }
+        ],
+        "services": [
+            {
+                "id": 1,
+                "name": "Artificial Teeth"
+            },
+            {
+                "id": 2,
+                "name": "Crowns and Bridges Fixing"
+            },
+            {
+                "id": 3,
+                "name": "Tooth Extraction"
+            },
+            {
+                "id": 4,
+                "name": "Dental Fillings"
+            },
+            {
+                "id": 5,
+                "name": "Dental Implant Fixing"
+            },
+            {
+                "id": 6,
+                "name": "Teeth Whitening"
+            },
+            {
+                "id": 7,
+                "name": "BPS Dentures Fixing"
+            },
+            {
+                "id": 8,
+                "name": "Impaction / Impacted Tooth Extraction"
+            },
+            {
+                "id": 9,
+                "name": "zirconium caps"
+            },
+            {
+                "id": 10,
+                "name": "RCT - Root Canal Treatment"
+            }
+        ],
+        "specializations": [
+            {
+                "id": 1,
+                "name": "Dentist"
+            },
+            {
+                "id": 2,
+                "name": "Cosmetic/Aesthetic Dentist"
+            },
+            {
+                "id": 3,
+                "name": "Dental Surgeon"
+            }
+        ],
+        "experiences": [
+            {
+                "id": 1,
+                "experience": "1999 - 2016 Clinical director at Specialist's Dental And Implant Center"
+            },
+            {
+                "id": 2,
+                "experience": "2017 - 2018 Clinical director at Specialist's Dental And Implant Center"
+            },
+            {
+                "id": 3,
+                "experience": "2019 - present Clinical director at Specialist's Dental And Implant Center"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Evea gill",
+        "specialist": "Dentist",
+        "fees": "$20 Consultation fee at clinic",
+        "img": "https://i.ibb.co/PtxsH3D/evea.png",
+        "from": "India",
+        "about": "BDS, MDS - Paedodontics And Preventive Dentistry Dentist, Implantologist, Pediatric Dentist, Cosmetic/Aesthetic Dentist 23 Years Experience Overall",
+        "address": "Noble Hospital, Magarpatta, Sector A 207, Pune, Maharashtra, india - 502320",
+        "timing": [
+            {
+                "id": 1,
+                "day": "Mon",
+                "first": "11:30 AM - 02:00 PM",
+                "second": "06:00 PM - 07:00 PM"
+            },
+            {
+                "id": 2,
+                "day": "Tue",
+                "first": "11:30 AM - 01:30 PM",
+                "second": "02:30 PM - 03:30 PM"
+            },
+            {
+                "id": 3,
+                "day": "Wed",
+                "first": " 02:00 PM - 04:00 PM",
+                "second": "06:30 PM - 07:00 PM"
+            },
+            {
+                "id": 4,
+                "day": "Thu",
+                "first": "11:30 AM - 02:30 PM",
+                "second": "04:00 PM - 06:00 PM"
+            },
+            {
+                "id": 5,
+                "day": "Fri",
+                "first": "11:30 AM - 02:30 PM",
+                "second": "06:00 PM - 07:00 PM"
+            },
+            {
+                "id": 6,
+                "day": "Sat",
+                "first": "02:00 PM - 04:00 PM",
+                "second": "06:00 PM - 07:00 PM"
+            },
+            {
+                "id": 7,
+                "day": "Sun",
+                "first": "11:00 AM - 01:00 PM",
+                "second": ""
+            }
+        ],
+        "educations": [
+            {
+                "id": 1,
+                "education": "BDS - M.R. Ambedkar Dental College and Hospital, 1999"
+            },
+            {
+                "id": 2,
+                "education": "MDS - M.R. Ambedkar Dental College and Hospital, 2003"
+            },
+            {
+                "id": 3,
+                "education": "Certificate of Oral Implantology - gIDE/UCLA, 2011"
+            }
+        ],
+        "services": [
+            {
+                "id": 1,
+                "name": "Artificial Teeth"
+            },
+            {
+                "id": 2,
+                "name": "Crowns and Bridges Fixing"
+            },
+            {
+                "id": 3,
+                "name": "Tooth Extraction"
+            },
+            {
+                "id": 4,
+                "name": "Dental Fillings"
+            },
+            {
+                "id": 5,
+                "name": "Dental Implant Fixing"
+            },
+            {
+                "id": 6,
+                "name": "Teeth Whitening"
+            },
+            {
+                "id": 7,
+                "name": "BPS Dentures Fixing"
+            },
+            {
+                "id": 8,
+                "name": "Impaction / Impacted Tooth Extraction"
+            }
+        ],
+        "specializations": [
+            {
+                "id": 1,
+                "name": "Dentist"
+            },
+            {
+                "id": 2,
+                "name": "Cosmetic/Aesthetic Dentist"
+            },
+            {
+                "id": 3,
+                "name": "Dental Surgeon"
+            }
+        ],
+        "experiences": [
+            {
+                "id": 1,
+                "experience": "1999 - 2016 Clinical director at Specialist's Dental And Implant Center"
+            },
+            {
+                "id": 2,
+                "experience": "2017 - 2018 Clinical director at Specialist's Dental And Implant Center"
+            },
+            {
+                "id": 3,
+                "experience": "2019 - present Clinical director at Specialist's Dental And Implant Center"
+            }
+        ]
+    }
+]
